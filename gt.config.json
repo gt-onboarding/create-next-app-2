@@ -10,5 +10,6 @@
       "output": "public/_gt/[locale].json"
     }
   },
-  "framework": "next-app"
+  "framework": "next-app",
+  "_versionId": "94a12c541432b90840599706a18841a1956f4c9fe20b3ddefe7f5ca0da0a2cbb"
 }
